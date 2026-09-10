@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "sakuna345.aternos.me",
+    "port":27973 ,
     "version": "",
     "try-creative": false
   },
